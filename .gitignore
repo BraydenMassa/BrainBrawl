@@ -9,6 +9,7 @@ lerna-debug.log*
 
 # Environment variables
 .env
+auth0info.env
 
 node_modules
 dist

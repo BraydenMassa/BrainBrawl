@@ -1,0 +1,13 @@
+POST https://localhost:4000/api/user/register
+Content-Type: application/json
+
+{
+    "email": "bmassa56@gmail.com",
+    "name": "Brayden",
+    "password": "Brayj3156$"
+}
+###
+GET https://localhost:4000/api/user
+###
+GET https://localhost:4000/api/user/3fa83102-5999-4a0e-a76e-e51f97d0085f
+###
